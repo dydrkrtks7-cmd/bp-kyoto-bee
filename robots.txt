@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://zone-info-note.maphoshirts.space/sitemap.xml
+Sitemap: https://zone-info-note.maphoshirts.space/sitemap-pages.xml
